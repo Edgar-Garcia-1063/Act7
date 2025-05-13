@@ -1,19 +1,6 @@
-# Act7
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/cff53779-e53c-4a52-875a-6b9b9ba1ad25)
+![image](https://github.com/user-attachments/assets/e1e67463-2f9a-4ae8-bd64-e96611431a6a)
+![image](https://github.com/user-attachments/assets/6efd27e8-1443-4372-915d-796846332f87)
+![image](https://github.com/user-attachments/assets/2ca1f1d5-a348-4260-9b3f-dfe8663c1dce)
+![image](https://github.com/user-attachments/assets/47b6750b-d443-4b55-a59e-7c824481a146)
+![image](https://github.com/user-attachments/assets/adf9baee-32f0-4366-8104-eaeda9664a98)
